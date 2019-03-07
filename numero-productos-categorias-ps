@@ -1,0 +1,6 @@
+echo "# consultas-prestashop" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/josepita/consultas-prestashop.git
+git push -u origin master
